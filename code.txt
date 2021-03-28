@@ -7,4 +7,7 @@ ins_3;
 ins_X;
 
 # update code
-ins_Y
+ins_Y;
+
+# update code + error
+ins_Z;
