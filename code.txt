@@ -1,6 +1,7 @@
-// Write an app
+# source code
 ins1;
 ins2;
 ins3;
-insN;
-insW;
+
+# updated code
+ins_X;
