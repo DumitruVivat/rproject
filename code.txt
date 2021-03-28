@@ -1,7 +1,10 @@
 # source code
-ins1;
-ins2;
-ins3;
+ins_1;
+ins_2;
+ins_3;
 
 # updated code
 ins_X;
+
+# update code
+ins_Y
